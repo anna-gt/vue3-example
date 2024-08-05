@@ -9,5 +9,5 @@ export default [
 	MyInput,
 	MyDialog,
 	MySelect,
-	MyPagination
+	MyPagination,
 ]
